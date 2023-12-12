@@ -1,0 +1,96 @@
+{"projects":[
+    {
+      "id": 1,
+      "name": "Project 1",
+      "description": "Description for Project 1."
+    },
+    {
+      "id": 2,
+      "name": "Project 2",
+      "description": "Description for Project 2."
+    },
+    {
+      "id": 3,
+      "name": "Project 3",
+      "description": "Description for Project 3."
+    },
+    {
+      "id": 4,
+      "name": "Project 4",
+      "description": "Description for Project 4."
+    },
+    {
+      "id": 5,
+      "name": "Project 5",
+      "description": "Description for Project 5."
+    },
+    {
+      "id": 6,
+      "name": "Project 6",
+      "description": "Description for Project 6."
+    }
+  ],
+  "users":[
+    {
+      "id": 1,
+      "name": "user1",
+      "password": "password1"
+    },
+    {
+      "name": "zarda",
+      "password": "zarda123",
+      "id": 2
+    },
+    {
+      "name": "zarda",
+      "password": "zarda123",
+      "id": 3
+    },
+    {
+      "name": "zarda",
+      "lastname": "gasimli",
+      "email": "zarda@gmail.com",
+      "password": "zarda123",
+      "id": 4
+    },
+    {
+      "userType": "organizer",
+      "name": "shahana",
+      "lastname": "gurbanova",
+      "email": "shahana@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "userType": "user",
+      "name": "John ",
+      "lastname": "Doe",
+      "email": "johndoe@gmail.com",
+      "password": "john123",
+      "id": 6
+    },
+    {
+      "userType": "user",
+      "name": "John nn",
+      "lastname": "Doe",
+      "email": "johndoe@gmail.com",
+      "password": "john123",
+      "id": 7
+    },
+    {
+      "userType": "user",
+      "name": "Sarah",
+      "lastname": "Doe",
+      "email": "johndoe@gmail.com",
+      "password": "john123",
+      "id": 8
+    },
+    {
+      "userType": "user",
+      "name": "Sarah",
+      "lastname": "Smith",
+      "email": "sarah@gmail.com",
+      "password": "sarah123",
+      "id": 9
+    }
+  ]}
